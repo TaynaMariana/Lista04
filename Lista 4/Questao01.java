@@ -1,3 +1,5 @@
+/*Crie um programa que lê vários números inteiros e positivos e imprima o produto dos números ímpares e a soma dos números pares.*/
+
 import java.util.Scanner;
 
 public class Questao01{
