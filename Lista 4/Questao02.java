@@ -1,3 +1,6 @@
+/*Faça um programa que leia um número indeterminado de valores e mostre o valor lido, seu quadrado,
+seu cubo e sua raiz quadrada. Finalize a entrada com valor negativo ou zero.*/
+
 import java.util.Scanner;
 
 public class Questao02 {
