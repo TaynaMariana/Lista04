@@ -1,3 +1,12 @@
+/*Em um campeonato de LOL, enquanto não há a tomada de território, o contador implementado deve contar (que é contabilizado pelo jogo), o número de kills, 
+deaths e assists. Se o número de kills for menor ou igual a 5, ele mostra a mensagem “noob”, se chegar a 20 ou mais “master”. Se o número de deaths chegar a 
+20 ou mais,  ele mostra a mensagem “Houston, we have a problem”. Se o número de assists chegar a 20 ou mais, é mostrada a mensagem: “team work”. Lembre-se, 
+é uma rotina que continua enquanto não houver um vencedor.
+Dicas: 
+há kills, deaths e assists total e da rodada
+medite na frase: enquanto não há um vencedor, faça…
+pergunte a cada loop o número de cada medida comentada.
+você deve perguntar se há um vencedor a cada loop… */
 import java.util.Scanner;
 
 public class Questao04 {
