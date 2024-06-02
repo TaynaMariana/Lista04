@@ -1,0 +1,4 @@
+Crie uma matriz M com dimensões 3x3, de inteiros. Em seguida, preencha a matriz e  verifique se a matriz é um quadrado mágico. 
+Uma matriz é um quadrado mágico quando a soma de todas as suas linhas, todas as suas colunas, sua diagonal principal e sua diagonal 
+secundária resultam no mesmo valor. Exemplo:
+
